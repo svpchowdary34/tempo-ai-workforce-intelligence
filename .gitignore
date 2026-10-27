@@ -1,0 +1,9 @@
+.env
+*.key
+secrets*
+__pycache__/
+.ipynb_checkpoints/
+*.zip
+tempo_*.csv
+tempo_*.md
+tempo_*.html
